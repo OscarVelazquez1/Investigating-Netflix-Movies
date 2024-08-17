@@ -1,4 +1,5 @@
 # Investigating-Netflix-Movies
+This project is an in-depth analysis of Netflix movies released in the 1990s. It explores various aspects such as the popularity of genres, the average duration of movies by genre, and the patterns in the work of the most prolific directors of the decade.
 
 
 ### Project Overview
