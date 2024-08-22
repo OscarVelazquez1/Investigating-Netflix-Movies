@@ -13,14 +13,6 @@ This project is an in-depth analysis of Netflix movies released in the 1990s. It
 This project was initially inspired by a course on DataCamp, but has been significantly expanded upon with additional analyses and custom visualizations. The additional features include:
 
 - A deeper analysis of genre trends over time.
-- Exploration of the relationship between directors and the genres they specialize in.
-- Custom visualizations that provide a clearer insight into the data.
-
-### Inspiration
-
-This project was initially inspired by a course on DataCamp, but has been significantly expanded upon with additional analyses and custom visualizations. The additional features include:
-
-- A deeper analysis of genre trends over time.
 - Exploration of the relationship between directors and and the number of films they has made in the decade
 - Custom visualizations that provide a clearer insight into the data.
 
